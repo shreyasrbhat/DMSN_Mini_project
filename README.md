@@ -25,10 +25,3 @@ So the basic structure of network is **signed directed graph**
 ### Components
 About 80 percent of users are part of strongly connected component 
 
-
-
-### in depth analysis (WIP)
-- How does average rating evolve over time
-- What is the frequency of transactions carried out by users with good rating and bad rating
-- Based on the rating and other network parameters can we model users rating in upcoming transaction.
-- How communities evolve around trusted and risky users. (Triadic closure may not apply here as in social network)
